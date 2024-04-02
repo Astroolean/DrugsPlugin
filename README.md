@@ -14,6 +14,6 @@
 
 ### Download the Drugs plugin now, and prepare to redefine your Minecraft experience.
 
-## Source code for the [Drugs plugin][Spigot]. 
+ ## Source code for the [Drugs plugin][Spigot]. 
 
-## [Spigot]: https://www.spigotmc.org/resources/drugs.90645/
+ [Spigot]: https://www.spigotmc.org/resources/drugs.90645/
