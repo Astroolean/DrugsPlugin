@@ -1,0 +1,13 @@
+package main.java.me.theminddroid.drugs.listeners;
+
+import dev.lone.itemsadder.api.Events.ItemsAdderLoadDataEvent;
+import me.theminddroid.drugs.DrugsPlugin;
+import org.bukkit.event.EventHandler;
+import org.bukkit.event.Listener;
+
+public class ItemsAdderLoadDataListener implements Listener {
+    @EventHandler
+    public void onItemsAdderLoad(final ItemsAdderLoadDataEvent event){
+        DrugsPlugin.get().reloadPlugin();
+    }
+}
