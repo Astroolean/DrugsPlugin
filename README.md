@@ -1,4 +1,4 @@
-# Introducing the Drugs Plugin: A Revolution in Minecraft Gameplay
+# Drugs Plugin: A Revolution in Minecraft Gameplay
 
 ### Embark on an exhilarating journey into the realm of virtual experimentation with the cutting-edge Drugs Plugin. Crafted with precision and innovation, this plugin transcends conventional Minecraft gameplay, introducing a dynamic infusion of excitement and possibility.
 
@@ -16,4 +16,4 @@
 
 ## Source code for the [Drugs plugin][Spigot]. 
 
-### [Spigot]: https://www.spigotmc.org/resources/drugs.90645/
+## [Spigot]: https://www.spigotmc.org/resources/drugs.90645/
