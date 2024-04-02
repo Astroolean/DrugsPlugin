@@ -63,10 +63,10 @@
             <id>sonatype</id>
             <url>https://oss.sonatype.org/content/groups/public/</url>
         </repository>
-         <repository>
-             <id>itemsadder-repo</id>
-             <url>https://repository.itemsadder.com/</url>
-         </repository>
+        <repository>
+            <id>itemsadder-repo</id>
+            <url>https://maven.pkg.github.com/LoneDev6/API-ItemsAdder</url>
+        </repository>
     </repositories>
 
     <dependencies>
@@ -82,9 +82,9 @@
             <version>2.4</version>
         </dependency>
         <dependency>
-            <groupId>itemsadder</groupId>
-            <artifactId>itemsadder</artifactId>
-            <version>itemsadder-3.6.3-beta-13</version>
+            <groupId>com.github.LoneDev6</groupId>
+            <artifactId>api-itemsadder</artifactId>
+            <version>3.6.3-beta-13</version>
             <scope>provided</scope>
         </dependency>
     </dependencies>
